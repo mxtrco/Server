@@ -1,0 +1,32 @@
+Difficulty:
+  '1':
+    Active: true
+  '2':
+    Active: true
+  '3':
+    Active: false
+  '4':
+    Active: false
+  '5':
+    Active: false
+  '6':
+    Active: false
+  '7':
+    Active: false
+  '8':
+    Active: false
+  '9':
+    Active: false
+  '10':
+    Active: false
+  '11':
+    Active: false
+  '12':
+    Active: false
+  '13':
+    Active: false
+  '14':
+    Active: false
+storm:
+  isActive: false
+  endTime: 1735045097490
